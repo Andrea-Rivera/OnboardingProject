@@ -16,4 +16,4 @@ https://finalonboarding.azurewebsites.net/api/stores<br>
 https://finalonboarding.azurewebsites.net/api/sales<br>
 
 And the Front-End:<br>
-https://finalonboardingreact.azurewebsites.net
+https://finalreactonboardingassignment.azurewebsites.net
